@@ -81,12 +81,12 @@ git commit -m '<message>' Commits the staging area to the repository with a <mes
 ##### 13. Send a pull request from this branch to Code Fellows' `master` branch
 
 What contributed most to your learning in today's workshop?
-
+enthusiasm
 
 
 What was the least helpful to your learning?
-
+fatigue
 
 
 Would you recommend this workshop to a friend (0-10)?
-
+meh. 7
